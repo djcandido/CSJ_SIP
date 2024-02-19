@@ -12,15 +12,22 @@ Escribe la descripción del proyecto
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Mikel Escobar: Regional Consultant
+> Jaime Jeovanny Cortez Flores: Gatito de la Corte Suprema de Justicia
 
 ### Control de versiones
 ***
 Escribe el detalle de las versiones del proyecto
-* Version 1.0.0: Version inicial del proyecto
-* Version 1.0.1: Describir el cambio menor del proyecto
-* Version 1.1.0: Describir el cambio significativo del proyecto
-* Version 2.0.0: Describir el cambio de alcance del proyecto
+| Versión | Descripción | Fecha |
+|--|--|--|
+| 1.0.0 | Versión inicial del proyecto | 01/01/2024 |
+| 1.0.1 | Describir el cambio menor del proyecto | 02/01/2024 |
+| 1.1.0 | Describir el cambio significativo del proyecto | 03/01/2024 |
+| 2.0.0 | 2.0.0: Describir el cambio de alcance del proyecto | 04/01/2024 |
+
+~~* Version 1.0.0: Version inicial del proyecto~~
+~~* Version 1.0.1: Describir el cambio menor del proyecto~~
+~~* Version 1.1.0: Describir el cambio significativo del proyecto~~
+~~* Version 2.0.0: Describir el cambio de alcance del proyecto~~
 
 ### Estructura de la aplicación
 ***
