@@ -12,7 +12,7 @@ Escribe la descripción del proyecto
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Jaime Jeovanny Cortez Flores: Gatito de la Corte Suprema de Justicia
+> Jaime Jeovanny Cortez Flores: miau miau de la Corte Suprema de Justicia
 
 ### Control de versiones
 ***
